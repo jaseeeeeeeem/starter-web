@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work.This is the starter web r
 
 ## Purpose
 
-Sample website with plenty of files for demos. This is the purpose.
+Sample website with plenty of files for demos. This is the purpose. emergency fix after stashing.
 
 ## Deployment
 Deployement can be done in any local server.
