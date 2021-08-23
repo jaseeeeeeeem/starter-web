@@ -13,3 +13,6 @@ Deployement can be done in any local server.
 This is the introduction of the project.
 
 ## How to contribute
+
+### Copyright
+This is a copyright notice.
