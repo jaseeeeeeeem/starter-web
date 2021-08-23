@@ -10,5 +10,6 @@ Sample website with plenty of files for demos. This is the purpose.
 Deployement can be done in any local server.
 
 ## Introduction
+This is the introduction of the project.
 
 ## How to contribute
