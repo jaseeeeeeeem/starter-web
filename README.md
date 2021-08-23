@@ -13,6 +13,7 @@ Deployement can be done in any local server.
 This is the introduction of the project.
 
 ## How to contribute
+Please fork this repository and use.
 
 ### Copyright
 This is a copyright notice.
